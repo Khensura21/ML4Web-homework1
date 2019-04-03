@@ -19,5 +19,9 @@ Here is how my sketched look before identifying a five dollar bill:
 # After 
 After recognizing the 5 dollar bill, it triggered this change: 
 
+
+
+Be sure to check out the live demo [here](https://khensura21.github.io/ML4Web-homework1/week1)
+
 # Reflection
 Even after this relative simple exercise, I can see why the hype around Machine Learning is very big. This project alone has gotten me very excited about the many applications that can possibly incorporate this techonology to make it more robust. I look forward to building more cool , fun, and helpful applications in this course!
