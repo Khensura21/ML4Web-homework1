@@ -36,10 +36,7 @@ function setup() {
                 check = 1;
 
             }
-            else {
-                check = 0;
-                song.pause();
-            }
+            
         }
     }
 
